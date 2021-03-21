@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote  name="origin" fetch="https://github.com/dongxiawu" />
+    <!-- 设置默认源和分支 -->
+    <default remote="origin" revision="master" sync-j="4"/>
+
+    <project name="repo_test1" path="repo_test1" />
+
+    <project name="repo_test2" path="repo_test2" />
+
+</manifest>
